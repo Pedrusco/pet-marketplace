@@ -88,4 +88,5 @@ src/
 ### Pedro Fernandes
 
 Frontend Developer passionate about clean UI, performance, and integrating real-world APIs.
+
 [LinkedIn](https://duckduckgo.com). | [GitHub](https://github.com/pedrusco)
