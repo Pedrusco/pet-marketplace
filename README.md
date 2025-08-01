@@ -89,4 +89,4 @@ src/
 
 Frontend Developer passionate about clean UI, performance, and integrating real-world APIs.
 
-[LinkedIn](https://duckduckgo.com). | [GitHub](https://github.com/pedrusco)
+[LinkedIn](https://www.linkedin.com/in/pedrusco/) | [GitHub](https://github.com/pedrusco)
