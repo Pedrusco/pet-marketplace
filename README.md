@@ -28,7 +28,7 @@ A simple proof-of-concept application built with **Next.js**, **GraphQL**, and *
 
 ## 📸 Preview
 
-![screenshot](https://via.placeholder.com/1200x600?text=Pet+Marketplace+Demo)
+Working on...
 
 ---
 
@@ -70,6 +70,7 @@ Visit: http://localhost:3000
 
 ## 📂 Project Structure
 
+```plaintext
 src/
 ├── pages/
 │ ├── index.tsx # Home page with GraphQL example
@@ -77,6 +78,7 @@ src/
 │ └── create-stripe-account-link.ts # Stripe Connect onboarding
 ├── styles/
 │ └── globals.css # Tailwind base styles
+```
 
 ## 📌 Notes
 
